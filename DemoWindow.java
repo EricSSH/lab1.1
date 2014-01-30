@@ -5,8 +5,9 @@
  */
 
 /**
+ *@author SUPERAUTHOR
  *
- * @author 
+ *
  */
 public class DemoWindow
 {
